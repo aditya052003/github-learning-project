@@ -1,3 +1,5 @@
 # GitHub Learning Project
 
 I am learning Git and GitHub.
+
+This is my first Git Project.
